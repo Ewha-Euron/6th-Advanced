@@ -1,30 +1,5 @@
-# 🐥EURON 6기 고급 세션🐥
+EURON 6기의 고급 세션 레포지토리
 
-## 🗂️ Curriculum
-|주차|날짜|내용|발제자|
-|---|---|---|---|
-|0주차|2024년 3월 5일|전체오티|	
-|1주차|2024년 3월 12일|논문스터디|손소현, 정윤서|
-|2주차|2024년 3월 19일|논문스터디|	C, D|
-|3주차|2024년 3월 26일|논문스터디|E, F|
-|4주차|2024년 4월 2일|논문스터디|G, H|
-|5주차|2024년 4월 9일|논문스터디|I, J|
-|6주차|2024년 4월 16일|✏️중간고사 휴식|-
-|7주차|2024년 4월 23일|✏️중간고사 휴식|-
-|8주차|2024년 4월 30일|논문스터디|K, L
-|9주차|2024년 5월 7일|논문스터디|A, B
-|10주차|2024년 5월 14일|논문스터디|C, D
-|11주차|2024년 5월 21일|논문스터디|E, F
-|12주차|2024년 5월 28일|논문스터디|G, H
-|13주차|2024년 6월 4일|논문스터디|I, J
-|14주차|2024년 6월 11일|✏️기말고사 휴식|-
-|15주차|2024년 6월 18일|✏️기말고사 휴식|-
-|16주차|2024년 6월 25일|논문스터디 및 프로젝트 아이디에이션|K, L
-|17주차|2024년 7월 2일|프로젝트 주간 1	
-|18주차|2024년 7월 9일|프로젝트 주간 2	
-|19주차|2024년 7월 16일|프로젝트 주간 3	
-|20주차|2024년 7월 23일|프로젝트 주간 4	
-|21주차|2024년 7월 30일|프로젝트 주간 5	
-|22주차|2024년 8월 6일|프로젝트 주간 6	
-|23주차|2024년 8월 13일|프로젝트 주간 7	
-|24주차|2024년 8월 20일|프로젝트 발표 및 수료식	
+[Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://azure-lace-fbe.notion.site/Sora-A-Review-on-Background-Technology-Limitations-and-Opportunities-of-Large-Vision-Models-7845fb006fae40d4ac404e0decdf9666)
+
+[Deep Neural Networks for YouTube Recommendations](https://azure-lace-fbe.notion.site/Deep-Neural-Networks-for-YouTube-Recommendations-8c07f33ff99147b387cc23fceef50a60)
